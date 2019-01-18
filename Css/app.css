@@ -60,6 +60,7 @@ a {
     width: 100%;
     color: #1C1C1C;
     background: #F7F7F7;
+     border-radius: 5px;
 
 }
 
@@ -72,7 +73,7 @@ a:hover {
     color: #F7F7F7;
     transform: scale(1.1);
     text-decoration: none;
-    border-radius: 4px;
+   
 
 }
 
@@ -100,7 +101,7 @@ nav ul il a {
 
 
 header {
-    height: 200px;
+    height: 160px;
     position: fixed;
     top: 0;
     overflow: hidden;
@@ -117,6 +118,7 @@ figure {
 
 img {
     width: 80%;
+    border-radius: 4px;
 }
 
 /* body */
