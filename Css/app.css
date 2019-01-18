@@ -156,11 +156,9 @@ img {
 
 .heroscreen_text h1 {
     font-size: 3em;
-    padding: 10px;
+    padding: 20px;
     color: #F7F7F7;
-    left: 50%;
-    top: 50%;
-    transform: translate(20%);
+    margin:15px;
 }
 
  .negro { background:#2A2A2A;}
