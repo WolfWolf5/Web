@@ -346,13 +346,13 @@ width: 100%;
 
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif');
 
- .body {
+ body {
     font-family: 'Noto Serif', serif;
 
 
     }
 
- .h1,h2,h3,h4,h5,h6 {
+ h1,h2,h3,h4,h5,h6 {
 font-family: 'Noto Sans', sans-serif;
  }
 
