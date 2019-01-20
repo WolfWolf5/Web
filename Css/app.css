@@ -63,7 +63,9 @@ a {
      border-radius: 5px;
 
 }
-
+nav {
+    position: fixed;
+}
 #unico {
     background: #1C1C1C;
 }
